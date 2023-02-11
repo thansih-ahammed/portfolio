@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7c0d78bc.css",
-    "main.js": "/portfolio/static/js/main.67b1f930.js",
+    "main.js": "/portfolio/static/js/main.81f21347.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/travel-app.png": "/portfolio/static/media/travel-app.18193314644e00f336ce.png",
+    "static/media/e-commerce.png": "/portfolio/static/media/e-commerce.bd22b80c1edfc592f5b3.png",
+    "static/media/business-app.png": "/portfolio/static/media/business-app.76ea055fd846b2f4080c.png",
     "static/media/THANSIH AHAMMED K.pdf": "/portfolio/static/media/THANSIH AHAMMED K.b2ef6eace6ba28bfa8c3.pdf",
-    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/logo.jpg": "/portfolio/static/media/logo.65cbf72d2232aac4fec4.jpg",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Todo App1.png": "/portfolio/static/media/Todo App1.fa58ec8ea95aa6c4db9f.png",
     "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/sass.png": "/portfolio/static/media/sass.2675e933e50e059e0640.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -19,11 +22,11 @@
     "static/media/native.png": "/portfolio/static/media/native.ebf5f2d90bff4c4a79e9.png",
     "index.html": "/portfolio/index.html",
     "main.7c0d78bc.css.map": "/portfolio/static/css/main.7c0d78bc.css.map",
-    "main.67b1f930.js.map": "/portfolio/static/js/main.67b1f930.js.map",
+    "main.81f21347.js.map": "/portfolio/static/js/main.81f21347.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c0d78bc.css",
-    "static/js/main.67b1f930.js"
+    "static/js/main.81f21347.js"
   ]
 }
